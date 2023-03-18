@@ -1,4 +1,11 @@
-# Building a Custom Digital Garden🌲
+---
+title: "Building a Custom Digital Garden🌲"
+datePublished: Wed Feb 15 2023 12:16:03 GMT+0000 (Coordinated Universal Time)
+cuid: cle5n0243000108jwfbr8ghku
+slug: building-a-custom-digital-garden
+tags: blogging, nextjs, digital-garden, pkm
+
+---
 
 2023 is the year I decided to start working on my branding and website.
 
@@ -35,7 +42,7 @@ Unfortunately, I haven't figured out all the technical details yet. A big one is
 
 Another difficulty I foresee would be generating the links and linking between notes. using `wikilinks` is one solution, but I've only seen people using regex to search for occurrences of `[[` to generate links. Ideally, we would also want links to be transformed into a `next/link` component.
 
-Writing notes for my personal website in this way also means giving up all the niceties of the WYSIWYG editors and completions. However, I shall attempt to make it more of a conscious process rather than an efficient one. By putting in the manual effort to curate my digital garden, I hope to be able to improve my understanding and expression of the idea I'm writing about.
+Writing notes for my personal website in this way also means giving up all the niceties of the WYSIWYG editors and completions. However, I intend to adopt more of a conscious note-taking process rather than an efficient one. By putting in the manual effort to curate my digital garden, I hope to be able to improve my understanding and expression of the idea I'm writing about.
 
 # Next Steps
 
